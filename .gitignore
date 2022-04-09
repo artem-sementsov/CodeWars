@@ -1,0 +1,8 @@
+*/stack-work/
+*~
+*.exe
+*.gz
+*/dist-newstyle
+*.hi
+*.o
+.vscode
